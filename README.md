@@ -55,7 +55,7 @@ The models were evaluated based on several metrics:
 - The Random Forest model showed the greatest improvement in accuracy when incorporating xG values.
 - Logistic Regression had the most well-calibrated predictions.
 - The models were compared to bookmakers’ odds for a baseline evaluation.
-- Full results are provided in the [Results](#results) section of the documentation.
+- Full results are provided in the ***Result*** section of the documentation.
 
 ## Installation and Usage
 
@@ -64,10 +64,3 @@ To run the project, ensure you have the following installed:
 - Python 3.7+
 - Jupyter Notebook
 - Required libraries: scikit-learn, imbalanced-learn, numpy, pandas, matplotlib, seaborn, shap, tensorflow
-
-### Installation
-Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/football-match-prediction.git
-cd football-match-prediction
