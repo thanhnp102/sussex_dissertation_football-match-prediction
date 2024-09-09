@@ -10,10 +10,6 @@ This repository contains the code, data, and documentation for the dissertation 
 - [Evaluation Metrics](#evaluation-metrics)
 - [Results](#results)
 - [Installation and Usage](#installation-and-usage)
-- [Repository Structure](#repository-structure)
-- [Limitations](#limitations)
-- [Future Work](#future-work)
-- [License](#license)
 
 ## Project Overview
 In recent years, football analytics has gained massive popularity. This project investigates the use of machine learning algorithms, incorporating Expected Goals (xG) values, to predict football match outcomes. xG values provide a quantitative measure of scoring opportunities, offering an advanced feature for predicting match results.
